@@ -15,6 +15,7 @@
 
 ### The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed, live or dead; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick. Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations. 
 
+
 ![I-Column](https://user-images.githubusercontent.com/43013718/159158666-0117a7e6-1ab9-4b0d-b042-a8bbf7e9d56f.gif)
 
 ## [Source: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life]
